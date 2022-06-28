@@ -1,5 +1,8 @@
 # Genetic-adaptations-to-potato-starch-digestion-in-the-Peruvian-Andes
 
+All populations used in this analysis are from publically available datasets, either the 1000 Genomes Project: https://www.internationalgenome.org or the Affymetrix Human Origins Array. Data files are subsetted by the population of interest, such as PEL, GWD/MSL, CHB/CHS. 
+
+
 This repository contains the raw, phased VCF file used for statistics in this selection scan study. 
 The VCF file contains:
 
